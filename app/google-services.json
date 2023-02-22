@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031638621166",
+    "project_id": "phn-task",
+    "storage_bucket": "phn-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031638621166:android:4b3dd042fb1bc094a28cff",
+        "android_client_info": {
+          "package_name": "com.phn.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031638621166-86onk42tikl0t8jhlim0v1q0ee4916bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABa3rrRUGLqVrF8st7r6Iijy27LPuwKD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031638621166-86onk42tikl0t8jhlim0v1q0ee4916bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
